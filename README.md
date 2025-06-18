@@ -20,7 +20,7 @@ The updated image is deployed to an ECS cluster.
 ### Load Balancing:
 An Application Load Balancer distributes traffic to the ECS cluster for high availability.
 ## Key Components
-
+*****************************
 **GitHub**: Version control system for code management.
 
 **Jenkins**: CI/CD automation server.
