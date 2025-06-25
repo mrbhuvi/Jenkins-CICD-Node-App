@@ -31,4 +31,4 @@ An Application Load Balancer distributes traffic to the ECS cluster for high ava
 
 **AWS ECS**: Container orchestration service for deploying and managing containers.
 
-**Application Load Balancer**: Load balancer for distributing traffic across ECS instances.
+**Application Load Balancer**: Load balancer for distributing traffic across ECS instances..
